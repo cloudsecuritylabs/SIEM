@@ -13,6 +13,6 @@ y
 
 sudo ./splunk enable boot-start
 systemctl enable splunk
-systemctlstart splunk
+systemctl start splunk
 ~~~
 
