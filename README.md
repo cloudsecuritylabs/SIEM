@@ -20,3 +20,10 @@ https://www.splunk.com/pdfs/technical-briefs/splunk-validated-architectures.pdf
 
 
 Detailed video: https://youtu.be/EWq7N6kCwt0
+
+
+
+
+
+##Pipe Operator: The Pipe Operator
+host | stats count
