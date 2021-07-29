@@ -6,7 +6,7 @@ downlod .deb file.
 scp to ubuntu machine
 dpkg -i .deb file ($ sudo dpkg -i splunk-8.2.1-ddff1c41e5cf-linux-2.6-amd64.deb)
 
-cd /bin
+cd /opt/splunk/bin
 sudo ./splunk start
 q
 y
